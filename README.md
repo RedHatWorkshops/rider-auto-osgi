@@ -27,7 +27,7 @@ Build & Run
 3) Add this projects features.xml config to Fuse from the Console
    (makes it easier to install bundles with all required dependencies)
 
-JBossFuse:karaf@root>  features:addUrl mvn:org.fusesource.examples/rider-auto-common/4.0-SNAPSHOT/xml/features
+JBossFuse:karaf@root>  features:addUrl mvn:org.fusesource.examples/rider-auto-common/5.0-SNAPSHOT/xml/features
 
 4) Install the project.
 

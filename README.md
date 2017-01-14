@@ -11,7 +11,7 @@ Setup
 
 - Install JBoss Developer Studio 8.1.0 [https://www.jboss.org/products/devstudio.html]
 - Install Apache Maven 3.2.x [http://maven.apache.org]
-- Install JBoss Fuse  6.2.1 [https://www.jboss.org/products/fuse.html]
+- Install JBoss Fuse  6.3.0 [https://www.jboss.org/products/fuse.html]
 
 Build & Run
 ==============================

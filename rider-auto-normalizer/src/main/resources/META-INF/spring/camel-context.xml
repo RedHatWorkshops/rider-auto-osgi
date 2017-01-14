@@ -28,7 +28,7 @@
         <when>
           <simple>${header.CamelFileName} regex '^.*(csv|csl)$'</simple>
           <unmarshal>
-            <bindy type="Csv" packages="org.fusesource.camel.model"/>
+            <bindy type="Csv" classType="org.fusesource.camel.model.Order"/>
           </unmarshal>
           <convertBodyTo type="org.fusesource.camel.model.Order"/>
           <marshal>

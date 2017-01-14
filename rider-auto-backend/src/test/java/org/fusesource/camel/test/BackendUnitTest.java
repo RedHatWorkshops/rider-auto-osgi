@@ -10,7 +10,6 @@ import org.apache.camel.builder.AdviceWithRouteBuilder;
 import org.apache.camel.component.mock.MockEndpoint;
 import org.apache.camel.model.ModelCamelContext;
 import org.apache.camel.test.spring.CamelSpringJUnit4ClassRunner;
-import org.fusesource.camel.model.Order;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
